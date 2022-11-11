@@ -4,7 +4,7 @@ Descrição: Site desenvolvido em curso realizado.
 
 Funcionalidades: Site de divulgação de serviços da barbearia, demonstrado através de 3 abas (Home / Produtos / Contato).
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## 🖥️ Tecnologias e Ferramentas:
 

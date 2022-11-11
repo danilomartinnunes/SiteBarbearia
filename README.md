@@ -1,4 +1,4 @@
-# SiteBarbearia
+## <h1 align="center"> Site Barbearia Alura </h1>
 
 Descrição: Site desenvolvido em curso realizado.
 

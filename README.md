@@ -10,4 +10,4 @@ Funcionalidades: Site de divulgação de serviços da barbearia, demonstrado atr
 
 # Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Danilo Martin Nunes</sub>](https://github.com/danilomartinnunes) | 
+| [<img src="[https://avatars.githubusercontent.com/u/37356058?v=4]" width=115><br><sub>Danilo Martin Nunes</sub>](https://github.com/danilomartinnunes) | 

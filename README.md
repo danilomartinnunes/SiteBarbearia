@@ -5,7 +5,7 @@
 
 Descrição: Site desenvolvido em curso realizado.
 
-Funcionalidades: Site de divulgação de serviços da barbearia, demonstrado através de 3 abas (Home / Produtos / Contato), incluindo formulário na página contato para preenchimento.
+Funcionalidades: Site de divulgação de serviços da barbearia, demonstrado através de 3 abas (Home / Serviços / Contato), incluindo formulário na página contato para preenchimento.
 
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 

@@ -8,4 +8,6 @@ Funcionalidades: Site de divulgação de serviços da barbearia, demonstrado atr
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 
-Autores do projeto: Danilo Nunes
+# Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Danilo Martin Nunes</sub>](https://github.com/danilomartinnunes) | 

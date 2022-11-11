@@ -1,5 +1,8 @@
 ## <h1 align="center"> Site Barbearia Alura </h1>
 
+![image](https://user-images.githubusercontent.com/113385253/201409385-c443dcd3-565b-43cf-92a2-94b9975b64d6.png)
+
+
 Descrição: Site desenvolvido em curso realizado.
 
 Funcionalidades: Site de divulgação de serviços da barbearia, demonstrado através de 3 abas (Home / Produtos / Contato), incluindo formulário na página contato para preenchimento.

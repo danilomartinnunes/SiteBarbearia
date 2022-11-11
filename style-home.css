@@ -1,0 +1,163 @@
+header {
+    background: grey;
+    padding: 5px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: rgba(169, 193, 46, 0.979);
+    text-decoration: underline;
+}
+
+#banner {
+    width: 100%;
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 940px;
+}
+
+.Principal {
+    background: rgb(176, 172, 172);
+    padding: 20px;
+    font: 20px "times new roman";
+    box-sizing: border-box;
+    border: 4px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.Principal2 {
+    padding: 20px;
+    font: 20px "times new roman";
+    text-align: center;
+}
+
+.degradê {
+    background: linear-gradient(white,grey)
+}
+
+.Principal2 p {
+    margin: 0 0 2em; 
+}
+
+.tituloCentralizado {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+em strong {
+    color: white;
+}
+
+.beneficios {
+    padding: 20px;
+    font: 20px "times new roman";   
+}
+
+.conteudo-beneficios {
+    width: 850px;
+    margin: 0 auto;
+}
+
+.itens-beneficios {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens_h3 {
+    line-height: 1.5;
+    text-shadow: 10px 8px 5px black;
+}
+
+.itens_h3::before {
+    content: "●";  
+}
+
+.imagembeneficios {
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 10px 8px 5px black;
+}
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 10px 0;
+}
+
+.copyright {
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
+.video {
+    margin: 3em auto;
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+    .Principal, .Principal2, .conteudo-beneficios, .degradê {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .itens-beneficios, .imagembeneficios {
+        width: 100%;
+    }
+
+    #banner {
+        height: 50%;
+        margin-top: 3px;
+    }
+
+    .caixa {
+        width: auto;
+        text-align: center;
+    }
+
+    .video {
+        margin: 3em auto;
+        width: auto;
+    }
+}
